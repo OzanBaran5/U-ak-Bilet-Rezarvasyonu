@@ -31,16 +31,6 @@ Kullanıcıların uçuşları listeleyip, seçtikleri uçuş için rezervasyon y
 
 ---
 
-## Kurulum ve Gereksinimler
-
-- Java Development Kit (JDK) 8 veya üzeri.
-- (Opsiyonel) JSON formatında kaydetmek için Gson kütüphanesi:
-  - Maven veya Gradle kullanıyorsanız, proje bağımlılığına `com.google.code.gson:gson` ekleyin.
-  - Veya manuel olarak jar dosyasını projeye dahil edin.
-- Alternatif olarak JSON işlemlerinde standart `org.json` kullanılabilir.
-
----
-
 ## Kod Yapısı
 
 - `Ucak` : Uçak modelini, markasını, seri numarasını ve koltuk kapasitesini tutar.
