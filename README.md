@@ -27,10 +27,7 @@ Kullanıcıların uçuşları listeleyip, seçtikleri uçuş için rezervasyon y
 2. Menüden uçuşları listeleyin veya doğrudan rezervasyon yap seçeneğini tercih edin.
 3. Rezervasyon yapmak için uçuş numarasını seçip istenilen bilgileri girin (Ad, Soyad, Yaş).
 4. Rezervasyon işlemi tamamlandıktan sonra isterseniz yapılan tüm rezervasyonları görüntüleyebilir veya dosyaya kaydedebilirsiniz.
-5. Dosya kaydetme seçenekleri:
-   - CSV formatında `rezervasyonlar.csv`
-   - JSON formatında `rezervasyonlar.json`
-6. Çıkış yaparak uygulamadan çıkabilirsiniz.
+5. Çıkış yaparak uygulamadan çıkabilirsiniz.
 
 ---
 
